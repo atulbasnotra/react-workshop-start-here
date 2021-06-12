@@ -1,6 +1,6 @@
 ## Atul Basnotra here 
 
-### About Me: I am a second year Computer Science. i am intrested in Web Development.
+### About Me:  I am a second year Computer Science student.i am intrested in Web Development.
 
 ### Links to my assignments here:
 
